@@ -1,35 +1,35 @@
 {
     "homepage": "https://minecraft.curseforge.com/projects/jj-meteor",
     "promos": {
-        "1.10-latest": "0.4.4",
-        "1.10-recommended": "0.4.4",
-        "1.10.1-latest": "0.4.4",
-        "1.10.1-recommended": "0.4.4",
-        "1.10.2-latest": "0.4.4",
-        "1.10.2-recommended": "0.4.4",
-        "1.12-latest": "0.4.4",
-        "1.12-recommended": "0.4.4",
-        "1.12.1-latest": "0.4.4",
-        "1.12.1-recommended": "0.4.4",
-        "1.12.2-latest": "0.4.4",
-        "1.12.2-recommended": "0.4.4"
+        "1.10-latest": "1.0.0",
+        "1.10-recommended": "1.0.0",
+        "1.10.1-latest": "1.0.0",
+        "1.10.1-recommended": "1.0.0",
+        "1.10.2-latest": "1.0.0",
+        "1.10.2-recommended": "1.0.0",
+        "1.12-latest": "1.0.0",
+        "1.12-recommended": "1.0.0",
+        "1.12.1-latest": "1.0.0",
+        "1.12.1-recommended": "1.0.0",
+        "1.12.2-latest": "1.0.0",
+        "1.12.2-recommended": "1.0.0"
     },
     "1.10": {
-        "0.4.4": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n"
     },
     "1.10.1": {
-        "0.4.4": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n"
     },
     "1.10.2": {
-        "0.4.4": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501962\n"
     },
     "1.12": {
-        "0.4.4": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n"
     },
     "1.12.1": {
-        "0.4.4": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n"
     },
     "1.12.2": {
-        "0.4.4": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n"
+        "1.0.0": "See https://minecraft.curseforge.com/projects/jj-meteor/files/2501650\n"
     }
 }
