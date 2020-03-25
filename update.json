@@ -7,12 +7,12 @@
         "1.10.1-recommended": "1.0.0",
         "1.10.2-latest": "1.0.0",
         "1.10.2-recommended": "1.0.0",
-        "1.12-latest": "1.0.22",
-        "1.12-recommended": "1.0.22",
-        "1.12.1-latest": "1.0.1",
-        "1.12.1-recommended": "1.0.22",
-        "1.12.2-latest": "1.0.1",
-        "1.12.2-recommended": "1.0.22"
+        "1.12-latest": "1.0.23",
+        "1.12-recommended": "1.0.23",
+        "1.12.1-latest": "1.0.23",
+        "1.12.1-recommended": "1.0.23",
+        "1.12.2-latest": "1.0.23",
+        "1.12.2-recommended": "1.0.23"
     },
     "1.10": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2555983\n"
@@ -26,16 +26,19 @@
     "1.12": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2555984\n",
         "1.0.1": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2581657\n",
-        "1.0.22": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912290\n"  
+        "1.0.22": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912290\n",
+        "1.0.23": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912420\n"   
     },
     "1.12.1": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2555984\n",
         "1.0.1": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2581657\n",
-        "1.0.22": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912290\n"  
+        "1.0.22": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912290\n",
+        "1.0.23": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912420\n"   
     },
     "1.12.2": {
         "1.0.0": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2555984\n",
         "1.0.1": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2581657\n",
-        "1.0.22": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912290\n"        
+        "1.0.22": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912290\n",
+        "1.0.23": "See https://www.curseforge.com/minecraft/mc-mods/jj-skill/files/2912420\n"         
     }
 }
