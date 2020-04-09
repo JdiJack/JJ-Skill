@@ -1,5 +1,7 @@
 {
     "homepage": "https://www.curseforge.com/minecraft/mc-mods/jj-skill",
+    "msg_custom": "Discover all the mods made by JdiJack",
+    "url_custom": "https://www.curseforge.com/minecraft/mc-mods/jj-skill",
     "promos": {
         "1.10-latest": "1.0.0",
         "1.10-recommended": "1.0.0",
